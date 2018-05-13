@@ -5,3 +5,4 @@ add gpl
 git track changes of files
 
 formal troops
+more or less
